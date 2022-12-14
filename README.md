@@ -1,4 +1,4 @@
-# Infinite Scrolling Images Website
+# Infinite Scrolling Images Website | Javascript Side Project
 [Live site](https://fullstacksammy.github.io/infinity-scroll/)
 
 Have you ever wanted to just look at pictures? Good! Then this site is perfect for you. This Javascript projects fetches unlimited picture from the Unsplash API
